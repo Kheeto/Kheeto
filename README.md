@@ -1,4 +1,4 @@
-## Kheeto
+## Welcome to Kheeto's Github lol
 
 ### I'm a developer and i mainly develop in C#, Java and JavaScript.
 
