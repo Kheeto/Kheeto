@@ -6,6 +6,3 @@
 - 📌 I’m also working on C# Discord Bot i'm making using DSharpPlus.
 
 ## Discord: Kheeto#9999
-
-## My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Kheeto)
