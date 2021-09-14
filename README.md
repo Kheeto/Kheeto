@@ -9,4 +9,6 @@
 
 ## Discord: Kheeto#9999
 
-also, drink your milk, hit the sack, hit billy and smash subscribe now GAMERS
+## My Stats (really cool milk gang)
+
+![Stats:](https://github-readme-stats.vercel.app/api?username=Kheeto)
