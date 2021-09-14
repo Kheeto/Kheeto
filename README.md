@@ -9,6 +9,4 @@
 
 ## Discord: Kheeto#9999
 
-## My Stats (really cool milk gang)
-
 ![Stats:](https://github-readme-stats.vercel.app/api?username=Kheeto)
