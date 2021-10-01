@@ -9,4 +9,4 @@
 
 ## Discord: Kheeto#9999
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=dark&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
