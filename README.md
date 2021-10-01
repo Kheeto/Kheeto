@@ -9,4 +9,4 @@
 
 ## Discord: Kheeto#9999
 
-![MyStats:](https://github-readme-stats.vercel.app/api?username=Kheeto)
+![Stats:](a)
