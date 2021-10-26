@@ -8,4 +8,6 @@
 
 ## Discord: Kheeto#9999
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=dark&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiche](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=dark&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguaggi che uso di più](https://github-readme-stats.vercel.app/api/top-langs/?username=Kheeto&layout=compact&theme=dark)](https://github.com/Kheeto)
