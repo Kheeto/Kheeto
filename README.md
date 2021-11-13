@@ -6,11 +6,11 @@ If you want, look at [my repositories](https://github.com/Kheeto?tab=repositorie
 # 🔎 I'm a programmer
 I mainly code in C#, Java and JavaScript.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=dark&count_private=true&show_icons=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide=issues&hide_border=true&include_all_commits=true&disable_animations=true&hide_title=true)
 
 # 📢 My Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot&theme=dark)](https://github.com/Endless-Development/EndlessBot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-Official-Bot&theme=dark)](https://github.com/NodeMod/NodeMod-Official-Bot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot&theme=react&hide_border=true)](https://github.com/Endless-Development/EndlessBot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-Official-Bot&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod-Official-Bot)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=dark)](https://github.com/NodeMod/NodeMod)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-List&theme=dark)](https://github.com/NodeMod/NodeMod-List)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-List&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod-List)
