@@ -2,11 +2,11 @@
 
 ### I'm a developer and i mainly develop in C#, Java and JavaScript.
 
-- 📌 I made a Discord Bot and a Library for it using C#
-- ☕ I also made some Spigot and Bungeecord plugins in Java
-- 💻 I also created lot of websites with HTML/CSS/JS/PHP
+- 📌 I made Discord Bots and a Library for them using C#
+- ☕ I make Spigot and Bungeecord plugins in Java
+- 💻 I create websites with HTML/CSS/JS/PHP
 - 🥛 I drink lot of milk because i'm milk gang and i'm a Dani fan
-- 🎈 But i also created many other projects!
+- 🎈 And i'm also working on some other projects!
 
 ### Discord: Kheeto#9999
 
