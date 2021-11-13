@@ -10,7 +10,7 @@ I mainly code in C#, Java and JavaScript.
 - 💻 I create websites with HTML/CSS/JS/PHP
 - 🥛 I drink lot of milk because i'm milk gang and i'm a Dani fan
 - 🎈 And i'm also working on some other projects!
-- 
+
 # 📢 My Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot&theme=dark)](https://github.com/Endless-Development/EndlessBot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-Official-Bot&theme=dark)](https://github.com/NodeMod/NodeMod-Official-Bot)
