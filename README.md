@@ -1,6 +1,6 @@
 # 📌 Kheeto
-<b>Developer of [NodeMod](https://github.com/NodeMod)<br></b>
-<b>Working at [Endless Network](https://github.com/Endless-Development)<br></b>
+<b>Founder of [Endless Network](https://github.com/Endless-Development), currently working on it</b><br>
+<b>Developer of [NodeMod](https://github.com/NodeMod), a new Discord bot Hosting</b><br>
 <b>If you want, look at [my repositories](https://github.com/Kheeto?tab=repositories)<br></b>
 
 ## 🔎 I'm a programmer
