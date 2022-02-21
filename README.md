@@ -8,7 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide=issues&hide_border=true&include_all_commits=true&disable_animations=true&hide_title=true)
 
-## 📢 My Projects
+# 📢 My Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kheeto&repo=EndlessBot-js-version&theme=react&hide_border=true)](https://github.com/Kheeto/EndlessBot-js-version)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=API&theme=react&hide_border=true)](https://github.com/NodeMod/API)
 
