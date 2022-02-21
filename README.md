@@ -10,7 +10,7 @@
 
 ## 📢 My Projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kheeto&repo=EndlessBot-js-version&theme=react&hide_border=true)](https://github.com/Kheeto/EndlessBot-js-version)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-Official-Bot&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod-Official-Bot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=API&theme=react&hide_border=true)](https://github.com/NodeMod/API)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-List&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod-List)
