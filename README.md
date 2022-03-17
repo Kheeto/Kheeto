@@ -1,5 +1,5 @@
 # 📌 Kheeto
-<b>Founder of [Endless Network](https://github.com/Endless-Development), currently working on it</b><br>
+<b>Founder of [Endless Network](https://github.com/Endless-Development), my minecraft server</b><br>
 <b>Developer of [NodeMod](https://github.com/NodeMod), a new Discord bot Hosting</b><br>
 <b>If you want, look at [my repositories](https://github.com/Kheeto?tab=repositories)<br></b>
 
@@ -8,7 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide=issues&hide_border=true&include_all_commits=true&disable_animations=true&hide_title=true)
 
-# 📢 Main Projects
+# 📢 My recent projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-js&theme=react&hide_border=true)](https://github.com/Endless-Development/EndlessBot-js)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=API&theme=react&hide_border=true)](https://github.com/NodeMod/API)
 
