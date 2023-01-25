@@ -8,8 +8,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide=issues&hide_border=true&include_all_commits=true&disable_animations=true&hide_title=true)
 
 # 📢 Some of my projects
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kheeto&repo=Unity-SCS&theme=react&hide_border=true)](https://github.com/Kheeto/Unity-SCS)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-js&theme=react&hide_border=true)](https://github.com/Endless-Development/EndlessBot-js)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=API&theme=react&hide_border=true)](https://github.com/NodeMod/API)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod-List&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod-List)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-Cs&theme=react&hide_border=true)](https://github.com/Endless-Development/EndlessBot-Cs)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=react&hide_border=true)](https://github.com/NodeMod/NodeMod)
