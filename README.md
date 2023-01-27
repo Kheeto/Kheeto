@@ -9,7 +9,7 @@
 
 # 📢 Some of my projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kheeto&repo=Unity-SCS&theme=react&show_owner=true&hide_border=true)](https://github.com/Kheeto/Unity-SCS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-js&theme=react&show_owner=true&hide_border=true)](https://github.com/Endless-Development/EndlessBot-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-js-v14&theme=react&show_owner=true&hide_border=true)](https://github.com/Endless-Development/EndlessBot-js-v14)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-Cs&theme=react&show_owner=true&hide_border=true)](https://github.com/Endless-Development/EndlessBot-Cs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=react&show_owner=true&hide_border=true)](https://github.com/NodeMod/NodeMod)
