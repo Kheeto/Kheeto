@@ -1,16 +1,30 @@
-# 📌 Kheeto
+<h1>
+  <b>Kheeto</b>
+</h1>
+
+<b>Student and Developer, I like making games</b><br>
 <b>Founder of [Endless Network](https://github.com/Endless-Development)</b><br>
-<b>If you want, look at [my repositories](https://github.com/Kheeto?tab=repositories)<br></b>
 
-<b>I mainly code using C#, Java and JavaScript.</b>
+```java
+import github.profile.Developer;
+import github.profile.Status;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kheeto&theme=react&hide_border=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide_border=true&include_all_commits=false&disable_animations=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+public class Kheeto extends Developer {
+    public Kheeto()
+    {
+        this.location = "Italy";
+        this.languages = {"C#", "Java", "JS"};
+        this.projects = {"Unity3D", "SpigotAPI", "Node.js"};
+        this.discord = "Kheeto#9999";
+    }
 
-# 📢 Some of my projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kheeto&repo=Unity-SCS&theme=react&show_owner=true&hide_border=true)](https://github.com/Kheeto/Unity-SCS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-js-v14&theme=react&show_owner=true&hide_border=true)](https://github.com/Endless-Development/EndlessBot-js-v14)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Endless-Development&repo=EndlessBot-Cs&theme=react&show_owner=true&hide_border=true)](https://github.com/Endless-Development/EndlessBot-Cs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NodeMod&repo=NodeMod&theme=react&show_owner=true&hide_border=true)](https://github.com/NodeMod/NodeMod)
+    public String getStatus() { return Status.STUDENT; }
+}
+```
+<p align="left">
+  <a href="https://github.com/raffreddat0/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide_border=true&include_all_commits=false&disable_animations=true&hide_title=true" />
+    <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheeto&theme=react&hide_border=true" />
+  </a>
+</p>
 <a href=#><img src="github-user-contribution.svg"></a>
