@@ -27,4 +27,3 @@ public class Kheeto extends Developer {
     <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheeto&theme=react&hide_border=true" />
   </a>
 </p>
-<a href=#><img src="github-user-contribution.svg"></a>
