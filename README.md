@@ -22,7 +22,7 @@ public class Kheeto extends Developer {
 }
 ```
 <p align="left">
-  <a href="https://github.com/raffreddat0/">
+  <a href="https://github.com/Kheeto/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kheeto&theme=react&count_private=true&show_icons=true&cache_seconds=1800&hide_border=true&include_all_commits=false&disable_animations=true&hide_title=true" />
     <img width="44.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheeto&theme=react&hide_border=true" />
   </a>
